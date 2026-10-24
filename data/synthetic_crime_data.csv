@@ -1,0 +1,26 @@
+report_id,crime_date,category,district,data_label
+SYN-001,2025-01-04,Theft,North,Synthetic sample data
+SYN-002,2025-01-11,Burglary,Central,Synthetic sample data
+SYN-003,2025-01-27,Vehicle Theft,East,Synthetic sample data
+SYN-004,2025-02-03,Theft,South,Synthetic sample data
+SYN-005,2025-02-10,Fraud,West,Synthetic sample data
+SYN-006,2025-02-17,Assault,Central,Synthetic sample data
+SYN-007,2025-02-22,Theft,North,Synthetic sample data
+SYN-008,2025-03-02,Theft,East,Synthetic sample data
+SYN-009,2025-03-08,Burglary,South,Synthetic sample data
+SYN-010,2025-03-15,Assault,West,Synthetic sample data
+SYN-011,2025-03-21,Fraud,Central,Synthetic sample data
+SYN-012,2025-03-29,Theft,North,Synthetic sample data
+SYN-013,2025-04-05,Vehicle Theft,South,Synthetic sample data
+SYN-014,2025-04-14,Theft,West,Synthetic sample data
+SYN-015,2025-04-26,Burglary,East,Synthetic sample data
+SYN-016,2025-05-01,Theft,Central,Synthetic sample data
+SYN-017,2025-05-06,Assault,North,Synthetic sample data
+SYN-018,2025-05-12,Fraud,South,Synthetic sample data
+SYN-019,2025-05-17,Burglary,West,Synthetic sample data
+SYN-020,2025-05-23,Vehicle Theft,East,Synthetic sample data
+SYN-021,2025-05-30,Theft,North,Synthetic sample data
+SYN-022,2025-06-04,Assault,Central,Synthetic sample data
+SYN-023,2025-06-11,Theft,South,Synthetic sample data
+SYN-024,2025-06-18,Burglary,East,Synthetic sample data
+SYN-025,2025-06-25,Fraud,West,Synthetic sample data
